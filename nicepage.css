@@ -26524,11 +26524,12 @@ a.u-link.u-text-hover-grey-90:hover {
     /** common-rules **/
     h1.u-title
     {
-        font-weight: 400;
         font-size: 4.5rem;
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-weight: 700;
+        font-family: Arvo;
     }
     h2.u-subtitle
     {
@@ -26798,19 +26799,20 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {background-image: none}
-.u-header .u-sheet-1 {min-height: 77px; margin: 0 auto}
-.u-header .u-image-1 {margin: 20px auto 0}
-.u-header .u-logo-image-1 {max-width: 73px; max-height: 73px}
-.u-header .u-menu-1 {margin: -33px auto 0 0}
+.u-header .u-sheet-1 {min-height: 104px}
+.u-header .u-image-1 {margin: 16px auto 0}
+.u-header .u-logo-image-1 {max-width: 141px; max-height: 141px}
+.u-header .u-menu-1 {margin: -54px auto 0 0}
 .u-header .u-nav-1 {font-size: 1rem}
 .u-header .u-nav-2 {font-size: 1rem}
-.u-header .u-social-icons-1 {white-space: nowrap; height: 25px; min-height: 16px; width: 25px; min-width: 16px; margin: -34px 70px 26px auto}
-.u-header .u-icon-1 {height: 100%} 
-@media (max-width: 1199px){ .u-header .u-image-1 {width: 73px; height: 38px}
-.u-header .u-social-icons-1 {margin-top: -34px} }
-
-@media (max-width: 767px){ .u-header .u-social-icons-1 {margin-top: -36px} }
-
+.u-header .u-custom-html-1 {min-height: 27px; margin: -31px 16px 39px 1097px} 
+@media (max-width: 1199px){ .u-header .u-sheet-1 {margin: 0 auto}
+.u-header .u-image-1 {width: 141px; height: 37px}
+.u-header .u-menu-1 {margin-top: -91px}
+.u-header .u-custom-html-1 {height: auto; margin-right: 0; margin-left: 913px} }
+@media (max-width: 991px){ .u-header .u-custom-html-1 {margin-left: 693px} }
+@media (max-width: 767px){ .u-header .u-custom-html-1 {margin-left: 513px} }
+@media (max-width: 575px){ .u-header .u-custom-html-1 {margin-left: 313px} }
  .u-footer .u-sheet-1 {min-height: 330px}
 .u-footer .u-layout-wrap-1 {margin: 60px auto 0 0}
 .u-footer .u-layout-cell-1 {background-image: none; min-height: 131px}
