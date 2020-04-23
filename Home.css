@@ -11,4 +11,7 @@
 .u-section-1 .u-text-1 {width: 540px} }
 
 @media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 149px}
-.u-section-1 .u-text-1 {width: 340px} }
+.u-section-1 .u-text-1 {width: 340px} }.u-section-2 .u-sheet-1 {min-height: 156px}
+.u-section-2 .u-text-1 {font-weight: 700; font-family: Roboto, sans-serif; margin: 20px -10px 20px 10px} 
+
+@media (max-width: 1199px){ .u-section-2 .u-text-1 {margin-left: 0; margin-right: 0} }
