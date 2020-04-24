@@ -1,10 +1,7 @@
 .u-section-1 {margin-top: 0; margin-bottom: 0}
 .u-section-1 .u-sheet-1 {min-height: 346px}
-.u-section-1 .u-text-1 {font-family: ABeeZee; margin: 0 auto}
-.u-section-1 .u-text-2 {margin: 7px 0 0} 
-
-@media (max-width: 767px){ .u-section-1 .u-text-1 {margin-top: 60px}
-.u-section-1 .u-text-2 {margin-bottom: 60px} }.u-section-2 {margin-top: 0; margin-bottom: 0}
+.u-section-1 .u-text-1 {font-family: ABeeZee; margin: 39px auto 0}
+.u-section-1 .u-text-2 {margin: 0 0 46px}.u-section-2 {margin-top: 0; margin-bottom: 0}
 .u-section-2 .u-sheet-1 {min-height: 864px}
 .u-section-2 .u-text-1 {font-family: ABeeZee; margin: 5px auto 0}
 .u-section-2 .u-text-2 {margin: 0 auto 0 536px}
