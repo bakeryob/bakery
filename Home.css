@@ -15,7 +15,7 @@
 .u-section-2 .u-text-1 {font-family: ABeeZee; font-weight: 700; margin: 20px -10px 20px 10px} 
 
 @media (max-width: 1199px){ .u-section-2 .u-text-1 {margin-left: 0; margin-right: 0} }.u-section-3 {min-height: 1008px}
-.u-section-3 .u-text-1 {font-family: ABeeZee; margin: 35px auto 0}
+.u-section-3 .u-text-1 {font-family: ABeeZee; font-size: 4.5rem; margin: 35px auto 0}
 .u-section-3 .u-gallery-1 {height: 896px; margin: 52px 0 0}
 .u-section-3 .u-back-slide-1 {background-image: url("images/25.jpg"); background-position: 50% 50%}
 .u-section-3 .u-over-slide-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); padding: 20px}
@@ -40,4 +40,5 @@
 .u-section-3 .u-gallery-1 {height: 3820px; grid-template-columns: repeat(1, auto); margin-right: initial; margin-left: initial} }
 
 @media (max-width: 575px){ .u-section-3 {min-height: 1943px}
-.u-section-3 .u-gallery-1 {height: 2405px; margin-right: initial; margin-left: initial} }
+.u-section-3 .u-text-1 {font-size: 3.75rem; margin-top: 44px; margin-left: 34px; margin-right: 34px}
+.u-section-3 .u-gallery-1 {height: 2405px; grid-template-columns: auto; margin-top: 43px; margin-right: initial; margin-left: initial} }
